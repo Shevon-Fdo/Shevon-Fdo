@@ -2,6 +2,19 @@
 
 **Shevon-Fdo/Shevon-Fdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)
+[![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/-Java-F37C20?style=flat&logo=java&logoColor=white)](https://www.oracle.com/in/java/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Endless-Raven
@@ -10,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shevonfernandoonline@gmail.com
 
 <a href="#">
-  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Shevon-Fdo&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Shevon-Fdo&count_private=true&include_all_commits=true&title_color=light&icon_color=black&text_color=black&bg_color=fff" alt="My GitHub stats" />
 </a>
 
 
