@@ -14,6 +14,11 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 Here are some ideas to get you started:
 
