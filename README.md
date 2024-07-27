@@ -35,6 +35,9 @@ Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/sh
 
 When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
 
+
+<!--
+
 **Notice a problem?**
 
 Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
@@ -73,3 +76,7 @@ Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the
 | 309 | [@ak811](https://github.com/ak811) |
 | 196 | [@DalpatRathore](https://github.com/DalpatRathore) |
 | 195 | [@shpatrickguo](https://github.com/shpatrickguo) |
+
+
+
+->
