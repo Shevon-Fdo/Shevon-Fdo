@@ -1,3 +1,130 @@
+<!--
+![Profile Banner](https://your-image-url.com)
+-->
+
+### Thevni Thinesa
+
+I'm a passionate and dedicated front-end developer with a strong focus on creating intuitive, responsive, and engaging user interfaces. With several years of experience in the industry, I have honed my skills in various front-end technologies and tools, ensuring that I stay up-to-date with the latest trends and best practices.
+
+### Technologies & Tools
+
+Here are some of the technologies and tools I have expertise in:
+
+
+   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+   ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+
+<table align="center">
+  <tr border="none">
+    <td>
+
+🌱 I’m currently learning **React, Tailwind**
+
+🧑‍🎓 I’m an Undergraduate at **NIBM**
+
+💬 Ask me about **Front-end Devlopment**
+
+📫 How to reach me **thevni.lianhua@gmail.com**
+  
+  </td>
+  
+  <td>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thevni-thinesa&theme=light&show_icons=true&count_private=true" />
+  </td>
+</tr>
+</table>
+   
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🔗 Links
+
+- **Portfolio:** [https://your-portfolio-url.com](https://your-portfolio-url.com)
+- **LinkedIn:** [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yourprofile/)
+- **GitHub:** [https://github.com/your-github-username](https://github.com/your-github-username)
+
+## 💡 Projects
+
+Here are some of the projects I've worked on:
+
+### [Project 1](https://github.com/your-github-username/project-1)
+**Description:** A brief description of what the project is about, its purpose, and the technologies used. Highlight any interesting features or challenges you overcame.
+
+**Technologies:** HTML, CSS, JavaScript, React
+
+### [Project 2](https://github.com/your-github-username/project-2)
+**Description:** A brief description of what the project is about, its purpose, and the technologies used. Highlight any interesting features or challenges you overcame.
+
+**Technologies:** HTML, CSS, JavaScript, Vue.js
+
+### [Project 3](https://github.com/your-github-username/project-3)
+**Description:** A brief description of what the project is about, its purpose, and the technologies used. Highlight any interesting features or challenges you overcame.
+
+**Technologies:** HTML, CSS, JavaScript, Angular
+
+## 📚 Blog Posts
+
+I occasionally write about front-end development, sharing tips, tutorials, and insights. Check out some of my latest posts:
+
+- [Blog Post 1](https://your-blog-url.com/post-1) - A brief description of what this post is about.
+- [Blog Post 2](https://your-blog-url.com/post-2) - A brief description of what this post is about.
+- [Blog Post 3](https://your-blog-url.com/post-3) - A brief description of what this post is about.
+
+## 📝 Certifications
+
+Here are some of the certifications I've earned:
+
+- [Certification 1](https://certification-url.com) - Issued by [Issuing Organization]
+- [Certification 2](https://certification-url.com) - Issued by [Issuing Organization]
+- [Certification 3](https://certification-url.com) - Issued by [Issuing Organization]
+
+## 📫 Contact Me
+
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect.
+
+- **Email:** saveenonline@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-github-username)
+
+---
+
+*This README was generated with ❤️ by [Your Name].*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--Thevni Thinesa-->
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
