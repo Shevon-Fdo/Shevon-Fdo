@@ -4,7 +4,7 @@
 
 ### Thevni Thinesa
 
-I'm a passionate and dedicated front-end developer with a strong focus on creating intuitive, responsive, and engaging user interfaces. I have honed my skills in various front-end technologies and tools, ensuring that I stay up-to-date with the latest trends and best practices.
+I'm a passionate and dedicated front-end developer with a strong focus on creating intuitive, responsive, and engaging user interfaces. ensuring that I stay up-to-date with the latest trends and best practices.
 
 ### Technologies & Tools
 
