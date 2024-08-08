@@ -41,7 +41,7 @@ Here are some of the technologies and tools I have expertise in:
   
   <td>
      
-![thevni-thinesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saveen99&theme=default&show_icons=true&hide_border=true&layout=compact)
+![saveen99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saveen99&theme=default&show_icons=true&hide_border=true&layout=compact)
 
   </td>
 </tr>
