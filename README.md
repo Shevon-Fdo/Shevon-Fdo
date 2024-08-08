@@ -29,7 +29,7 @@ Here are some of the technologies and tools I have expertise in:
 
 
 
-<table align="center">
+<table >
   <tr border="none">
     <td>
 
@@ -44,7 +44,9 @@ Here are some of the technologies and tools I have expertise in:
   </td>
   
   <td>
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thevni-thinesa&theme=light&show_icons=true&count_private=true" />
+     
+![thevni-thinesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevni-thinesa&theme=default&show_icons=true&hide_border=true&layout=compact)
+
   </td>
 </tr>
 </table>
