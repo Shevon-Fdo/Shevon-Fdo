@@ -2,7 +2,7 @@
 ![Profile Banner](https://your-image-url.com)
 -->
 
-### Thevni Thinesa
+### Shevon Fernando
 
 I'm a passionate and dedicated front-end developer with a strong focus on creating intuitive, responsive, and engaging user interfaces. ensuring that I stay up-to-date with the latest trends and best practices.
 
@@ -34,14 +34,14 @@ Here are some of the technologies and tools I have expertise in:
   <tr border="none">
     <td>
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thevni-thinesa&theme=light&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saveen99&theme=light&show_icons=true&count_private=true" />
 
 
   </td>
   
   <td>
      
-![thevni-thinesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevni-thinesa&theme=default&show_icons=true&hide_border=true&layout=compact)
+![thevni-thinesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saveen99&theme=default&show_icons=true&hide_border=true&layout=compact)
 
   </td>
 </tr>
