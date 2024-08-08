@@ -47,11 +47,11 @@ Here are some of the technologies and tools I have expertise in:
 </tr>
 </table>
    
-
+<!--
 ### Connect with me:
 
 <p >
     <a href="https://www.linkedin.com/in/thevni-thinesa-2b066a240/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevni-thinesa" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
    
-</p>
+</p>-->
