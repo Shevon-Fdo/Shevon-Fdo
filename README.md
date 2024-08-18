@@ -3,15 +3,27 @@
 -->
 
 
+### Saveen Maduranga
 
 
 <table >
 <tr border="none">
-<td width="600">
+<td width="400">
    
-### Saveen Maduranga
 
 I'm a passionate and dedicated front-end developer with a strong focus on creating intuitive, responsive, and engaging user interfaces. ensuring that I stay up-to-date with the latest trends and best practices.
+
+</td>
+<td>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=20063596&theme=light" />
+ 
+</td>
+</tr>
+</table>
+
+
+
+
 
 ### Technologies & Tools
 
@@ -33,18 +45,6 @@ Here are some of the technologies and tools I have expertise in:
    ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
-
-</td>
-<td>
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=20063596&theme=light" />
- 
-</td>
-</tr>
-</table>
-
-
 
 
 
