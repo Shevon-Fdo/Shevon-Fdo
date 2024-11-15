@@ -78,3 +78,16 @@ Here are some of the technologies and tools I have expertise in:
     <a href="https://www.facebook.com/profile.php?id=100092198140103&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevni thinesa" height="30" width="40" /></a>
    
 </p>-->
+
+
+
+<h3 align="center">Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/saveen99">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saveen99&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saveen99&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen99&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saveen99&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saveen99&theme=github" height="180em" />
+</div>
